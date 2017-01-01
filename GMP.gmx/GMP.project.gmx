@@ -27,6 +27,7 @@
   </objects>
   <rooms name="rooms">
     <room>rooms\rm_initialize</room>
+    <room>rooms\rm_mechanic_test</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
