@@ -14,6 +14,7 @@
     </sprites>
     <sprite>sprites\spr_enemy</sprite>
     <sprite>sprites\spr_teleport</sprite>
+    <sprite>sprites\spr_test2</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
@@ -22,7 +23,6 @@
     <object>objects\obj_wall</object>
     <object>objects\obj_enemy</object>
     <object>objects\obj_collision_kill</object>
-    <object>objects\obj_check_part</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\Mechanics_Test</room>
