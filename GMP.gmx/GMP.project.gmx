@@ -23,8 +23,9 @@
     <object>objects\obj_wall</object>
     <object>objects\obj_enemy</object>
     <object>objects\obj_collision_kill</object>
-    <object>objects\obj_teleport</object>
     <object>objects\obj_checkpoint</object>
+    <object>objects\obj_teleport</object>
+    <object>objects\obj_tele_particles</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\rm_initialize</room>
