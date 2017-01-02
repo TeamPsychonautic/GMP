@@ -15,6 +15,8 @@
     <sprite>sprites\spr_enemy</sprite>
     <sprite>sprites\spr_teleport</sprite>
     <sprite>sprites\spr_checkpoint</sprite>
+    <sprite>sprites\spr_collision</sprite>
+    <sprite>sprites\spr_player_new</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
