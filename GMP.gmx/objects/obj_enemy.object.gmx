@@ -90,13 +90,8 @@ if (place_meeting(x,y,obj_player))
     }
     else 
     {
-    scr_death();
+    room_restart();
     }
-}
-
-if (place_meeting(x,y,obj_collision_kill))
-{
-    instance_destroy();
 }
 </string>
           </argument>
