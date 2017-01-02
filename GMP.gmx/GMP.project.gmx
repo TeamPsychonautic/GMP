@@ -14,6 +14,7 @@
     </sprites>
     <sprite>sprites\spr_enemy</sprite>
     <sprite>sprites\spr_teleport</sprite>
+    <sprite>sprites\spr_test2</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
